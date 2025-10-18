@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Eco Glamping Almaty",
+    "region": "Алматы",
+    "address": "Медеуский район, урочище Кумбель",
+    "category": "Экотуризм",
+    "price_range": "от 35 000 ₸/ночь",
+    "rating": 9.2,
+    "contacts": {
+      "phone": "+7 701 123 45 67",
+      "instagram": "https://instagram.com/eco_glamp_almaty"
+    },
+    "description": "Глэмпинг в окружении гор Алатау с видом на Талгарский пик. Отличный вариант для любителей природы.",
+    "photos": [
+      "https://example.com/img1.jpg",
+      "https://example.com/img2.jpg"
+    ],
+    "score": 8.7,
+    "priority": "тёплый лид"
+  },
+  {
+    "name": "Nomad Yurt Camp",
+    "region": "Алматы",
+    "address": "Иле-Алатауский парк",
+    "category": "Этно-туризм",
+    "price_range": "от 20 000 ₸/ночь",
+    "rating": 8.5,
+    "contacts": {
+      "phone": "+7 707 987 65 43",
+      "telegram": "@nomad_camp"
+    },
+    "description": "Юртовый лагерь с традиционным дизайном и ужинами у костра. Культурный отдых в духе казахских степей.",
+    "photos": [
+      "https://example.com/yurt1.jpg",
+      "https://example.com/yurt2.jpg"
+    ],
+    "score": 9.0,
+    "priority": "горячий лид"
+  }
+]
